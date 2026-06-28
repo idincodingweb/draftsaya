@@ -23,18 +23,18 @@ Untuk penulisan baris kode atau sintaks dasarnya, saya tidak mengetik manual dar
 ---
 
 ### 4. Solusi Digital untuk Divisi Marketing Fleet (Visi Perusahaan)
-"Berdasarkan analisis saya terhadap kebutuhan unit bisnis dealership otomotif regional seperti Yamaha Arista Karawang, khususnya dalam mendongkrak penjualan skala besar (Fleet), saya telah merancang 3 *tools automation* spesifik yang siap saya operasikan untuk efisiensi bisnis perusahaan:
+"Berdasarkan analisis saya terhadap kebutuhan unit bisnis dealership otomotif regional seperti Yamaha Arista Karawang, khususnya dalam mendongkrak penjualan skala besar (Fleet), saya melihat ada 3 solusi otomatisasi spesifik yang sangat potensial untuk segera kita bangun demi efisiensi bisnis perusahaan:
 
-**1. B2B Industrial Lead Scraper & Validator (Khusus Kawasan Karawang)**
-*   **Fungsi:** Alat otomatisasi untuk menyisir direktori bisnis dan data registrasi perusahaan di seluruh kawasan industri Karawang (KIIC, Suryacipta, dll). Tool ini menarik data nama perusahaan hingga kontak personal *decision-maker* (HRD, GA, atau Purchasing) secara bersih tanpa email generik bot.
-*   **Output:** Database matang format CSV yang siap diserahkan ke tim *sales* lapangan untuk langsung dikirimi proposal tanpa mencari data manual dari nol.
+1. B2B Industrial Lead Scraper & Validator (Khusus Kawasan Karawang)
+*   **Konsep:** Memanfaatkan infrastructure automation yang biasa saya gunakan untuk menyisir direktori bisnis di kawasan industri Karawang (KIIC, Suryacipta, dll) guna menarik data kontak personal decision-maker (HRD, GA, atau Purchasing) secara bersih.
+*   **Output:** Database matang format CSV yang siap dieksekusi tim sales lapangan tanpa perlu mencari data manual dari nol.
 
-**2. Auto-Generated Fleet Proposal & WhatsApp Sender**
-*   **Fungsi:** Sistem automasi untuk memangkas waktu administrasi tim marketing. Begitu tim menginput nama instansi dan detail unit, sistem otomatis membuat dokumen proposal PDF resmi dan mengirimkannya secara personal ke WhatsApp perwakilan perusahaan.
-*   **Output:** Mengubah proses pembuatan proposal yang memakan waktu berjam-jam menjadi hitungan detik secara otomatis.
+2. Auto-Generated Fleet Proposal & WhatsApp Sender
+*   **Konsep:** Membuat sistem automasi terintegrasi untuk memangkas waktu administrasi. Begitu tim menginput nama instansi dan detail unit, sistem akan otomatis men-generate dokumen proposal PDF resmi dan langsung mengirimkannya ke WhatsApp perwakilan perusahaan.
+*   **Output:** Efisiensi waktu, mengubah proses pembuatan proposal dari hitungan jam menjadi hitungan detik.
 
-**3. Dealership Competitor Price & Promo Tracker**
-*   **Fungsi:** Tool khusus untuk memantau harian secara otomatis pergerakan media sosial dan website resmi dealer kompetitor di area Karawang. Sistem akan mendeteksi kata kunci promo baru (potongan DP, diskon tenor, dll).
-*   **Output:** Laporan tren promo kompetitor secara berkala agar manajemen bisa bergerak lebih cepat merancang strategi tandingan.
+3. Dealership Competitor Price & Promo Tracker
+*   **Konsep:** Menerapkan tool khusus untuk memantau pergerakan media sosial dan website resmi dealer kompetitor di area Karawang secara berkala terhadap kata kunci promo baru (potongan DP, diskon tenor, dll).
+*   **Output:** Laporan tren promo kompetitor agar manajemen bisa bergerak lebih cepat merancang strategi tandingan.
 
-Jika di sini tim developer-nya belum ada, saya siap menjadi pionir untuk mengeksekusi sistem-sistem ini."
+Pondasi dasar dan logika untuk sistem-sistem otomatisasi seperti ini sudah sering saya operasikan di GitHub saya. Jadi jika di Yamaha Arista Johar ini tim developer-nya belum ada, saya sangat siap untuk merealisasikan solusi-solusi ini dari nol."

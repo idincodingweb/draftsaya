@@ -1,4 +1,4 @@
-# Catatan Wawancara - Idin Iskandar, S.Kom
+# Catatan Wawancara - Idin Iskandar
 
 ### Pembukaan
 "Sebelumnya saya mohon maaf untuk Bapak/Ibu. Semalam saya telah menyiapkan catatan untuk wawancara ini agar penyampaian saya lebih terarah. Karena saya terkadang merasa grogi saat berbicara langsung, mohon izin untuk membacakan draft yang telah saya susun rapi ini."
